@@ -170,3 +170,4 @@ All providers from the [improved-all-in-one](https://github.com/jacobyz211/impro
 ## License
 
 MIT
+.
