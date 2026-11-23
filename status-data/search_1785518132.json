@@ -1,0 +1,14 @@
+{
+  "timestamp": 1785518132,
+  "mode": "search",
+  "results": [
+    {
+      "url": "https://eclipse-backend.phantomic12.workers.dev",
+      "healthy": true,
+      "mode": "search",
+      "message": "30 tracks",
+      "response_time_ms": 3850,
+      "timestamp": 1785518132
+    }
+  ]
+}
